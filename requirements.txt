@@ -1,0 +1,5 @@
+tensorflow==2.9 # Any version of tensorflow over 2.9 should work
+matplotlib>=3.6
+numpy>=1.19
+scikit-learn>=0.20
+opencv-python>=4.0
