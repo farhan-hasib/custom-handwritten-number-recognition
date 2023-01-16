@@ -1,4 +1,4 @@
-# Handwritten Digit Prediction 
+# Custom Handwritten Digit Prediction 
 
 A Handwritten Number Prediction program made with Keras, Python and other Python modules. Trained with the popular MNIST dataset. 
 
