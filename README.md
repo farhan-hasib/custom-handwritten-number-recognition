@@ -19,4 +19,4 @@ A Handwritten Number Prediction program made with Keras, Python and other Python
  Images bigger than 28x28 pixels size will be scaled down, but will lose quality. The bigger the image size, the more it will be distored and the model will be less likely to predict it correctly.
  8. Hyperparameters in `hyperparameters.py` can be tweaked.
 
-NOTE: The model is not advanced enough and can often make mistakes in predictions
+NOTE: The model is not advanced enough and can often make mistakes in predictions.
