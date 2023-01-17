@@ -1,6 +1,6 @@
 # Custom Handwritten Digit Recognition 
 
-A Handwritten Number Prediction program made with Keras, Python and other Python modules. Trained with the popular MNIST dataset. 
+A Handwritten Number Prediction program made with Python, TensorFlow, Keras and other Python modules. Trained with the popular MNIST dataset. 
 
 # Demo
 
