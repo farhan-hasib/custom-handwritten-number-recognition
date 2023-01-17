@@ -47,6 +47,7 @@ model.fit(X_train, y_train, epochs=hyperparameters.epochs)
 # Evaluates the model
 val_loss, val_acc = model.evaluate(X_test, y_test)
 
+print ("Model Evaluation with Test Data")
 print("Loss: ", val_loss)
 print("Accuracy: ", val_acc)
     
