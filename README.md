@@ -1,6 +1,6 @@
 # Custom Handwritten Number Recognition 
 
-A MVP Handwritten Number Prediction program made with Python, TensorFlow, Keras and other Python modules. Trained with the popular MNIST dataset.
+A MVP Handwritten Number Prediction program made with Python, TensorFlow, Keras and other Python modules. Trained with the popular MNIST dataset using the Keras Sequential Neural Network Model. Utilized ReLU and Softmax as activation functions and Cross-Entropy as loss function for the model.
 
 # Demo
 
